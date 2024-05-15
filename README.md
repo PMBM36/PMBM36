@@ -1,3 +1,5 @@
+![Banner1](https://github.com/PMBM36/PMBM36/assets/169218700/2d1d4621-8417-4a6a-a798-2e41f3d08afd)
+
 <h1 align="center">Hola 👋, Soy Paola Maritza Bello Medina</h1>
 <h3 align="center">Soy una experimentada ing. en sistemas computacionales especializada en el análisis, desarrollo y comprensión de los sistemas, con el interés de seguir aprendiendo en el campo informático. Mi trabajo refleja un apreciación a los detalles para lograr las metas establecidas en cada proyecto. Actualmente estoy en la búsqueda de un habiente de trabajo inspirador que me permita desarrollarme con una buena formación.</h3>
 
