@@ -7,7 +7,7 @@ Soy una experimentada ing. en sistemas computacionales especializada en el anál
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paola-maritza-bello-medina-aa298a109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paola-maritza-bello-medina-aa298a109/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paola-maritza-bello-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paola-maritza-bello-medina/" height="30" width="40" /></a>
 
   <a href="https://outlook.live.com/" target="blank"><img align="center" src="https://github.com/PMBM36/PMBM36/assets/169218700/46f2dad0-c266-43d4-b6c7-23d576f0545c" alt="paolam_78@hotmail.com" height="30" width="40" /></a>
 
